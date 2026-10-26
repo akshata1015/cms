@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+evidence/
+*.db
+alerts_log.csv
+wanted_faces/
+stolen_plates.txt
+*.pt
+wanted_faces*/
